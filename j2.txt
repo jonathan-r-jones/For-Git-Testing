@@ -1,4 +1,4 @@
--- This is NOT a keeper.
+-- This is NOT a keeper. v. 3
 
 <?xml version='1.0' encoding='UTF-8'?>
 <server xmlns="urn:jboss:domain:3.0">
