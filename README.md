@@ -1,4 +1,4 @@
-Update on Jun-13-2018
+Update on Oct-5-2020
 
 ![freeCodeCamp Social Banner](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)
 
